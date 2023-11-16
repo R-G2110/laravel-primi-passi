@@ -34,8 +34,7 @@
     {{-- Main --}}
     <main>
         <div class="container text-center">
-            <h1>Home</h1>
-            <h2>{{ $message }}</h2>
+            <h1>Contacts</h1>
         </div>
     </main>
     {{-- /Main --}}
